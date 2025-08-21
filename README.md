@@ -85,7 +85,7 @@ The model's ability to isolate unique statistical profiles is one of its most po
 
 Explore the full interactive map of all players below. You can hover over any player to see their name, key stats, and assigned archetype.
 
-**[Link`nba_player_archetypes_interactive_plot.html`]**
+**[[Archetype Interactive Plot](nba_player_archetypes_interactive_plot.html)]**
 
 ---
 
